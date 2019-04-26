@@ -1,0 +1,23 @@
+{
+  "name": "munin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uigormarshall/munin.git"
+  },
+  "keywords": [
+    "artisan",
+    "boilerplaite"
+  ],
+  "author": "Uigor Silva Fonseca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uigormarshall/munin/issues"
+  },
+  "homepage": "https://github.com/uigormarshall/munin#readme"
+}
